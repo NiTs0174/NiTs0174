@@ -55,7 +55,7 @@
 ---
 
 ## 👨‍💻 Certificates  
-  <p align="left"> 
+  <p align="center"> 
     <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg"> 
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nits0174&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&" alt="nits0174" /> 
   </p>
