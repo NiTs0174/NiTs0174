@@ -55,10 +55,10 @@
 ---
 
 ## 👨‍💻 Certificates
-  <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg"> 
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nits0174&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&" alt="nits0174" />
-  <!-- <a href="https://www.buymeacoffee.com/NiTs0174">
+  <a href="https://www.buymeacoffee.com/NiTs0174">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NiTs0174" />
-  </a> -->
+  </a>
+  <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg"> 
   
 <hr />
