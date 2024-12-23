@@ -59,6 +59,5 @@
   <!-- <a href="https://www.buymeacoffee.com/NiTs0174">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NiTs0174" />
   </a>-->
-  <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg"> 
   
-<hr />
+  <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg"> 
